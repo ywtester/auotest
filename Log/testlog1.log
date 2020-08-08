@@ -1,0 +1,5 @@
+2020-08-05 10:46:05,306 [main] INFO test - 日志输出
+2020-08-06 14:06:28,491 [main] INFO test - 日志输出
+2020-08-06 14:06:28,491 [main] ERROR test - error
+2020-08-06 14:06:28,491 [main] DEBUG test - debug
+2020-08-06 14:06:28,491 [main] WARN test - warn
