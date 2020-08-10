@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="debe18ee-4ecb-41a6-95dd-6234c7350093" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/auotest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Log/application.html" beforeDir="false" afterPath="$PROJECT_DIR$/Log/application.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Log/testlog.log" beforeDir="false" afterPath="$PROJECT_DIR$/Log/testlog.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Log/testlog1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Log/testlog1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logs/error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logs/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logs/info.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logs/warn.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logs/warn.log" afterDir="false" />
-    </list>
+    <list default="true" id="debe18ee-4ecb-41a6-95dd-6234c7350093" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -131,24 +118,6 @@
               <item name="auotest" type="b2602c69:ProjectViewProjectNode" />
               <item name="auotest" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="auotest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auotest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="auotest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auotest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="auotest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auotest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -160,7 +129,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597025598436" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597026988829" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -209,12 +178,12 @@
       <workItem from="1596694055406" duration="8439000" />
       <workItem from="1596849651008" duration="422000" />
       <workItem from="1596850106513" duration="2952000" />
-      <workItem from="1596871706213" duration="2642000" />
+      <workItem from="1596871706213" duration="3358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22079000" />
+    <option name="totallyTimeSpent" value="22795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
