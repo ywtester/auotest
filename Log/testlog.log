@@ -3,3 +3,7 @@
 2020-08-06 14:06:28,491 - test -ERROR - error
 2020-08-06 14:06:28,491 - test -DEBUG - debug
 2020-08-06 14:06:28,491 - test -WARN - warn
+2020-08-08 15:29:21,046 - test -INFO - 日志输出
+2020-08-08 15:29:21,046 - test -ERROR - error
+2020-08-08 15:29:21,046 - test -DEBUG - debug
+2020-08-08 15:29:21,046 - test -WARN - warn

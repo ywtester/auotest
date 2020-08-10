@@ -4,3 +4,9 @@ INFO:日志输出
 ERROR:error
 2020-08-06 14:06:28 下午 [Thread: main][ Class:test >> Method: test.main(test.java:9) ]
 WARN:warn
+2020-08-08 15:29:21 下午 [Thread: main][ Class:test >> Method: test.main(test.java:6) ]
+INFO:日志输出
+2020-08-08 15:29:21 下午 [Thread: main][ Class:test >> Method: test.main(test.java:7) ]
+ERROR:error
+2020-08-08 15:29:21 下午 [Thread: main][ Class:test >> Method: test.main(test.java:9) ]
+WARN:warn
